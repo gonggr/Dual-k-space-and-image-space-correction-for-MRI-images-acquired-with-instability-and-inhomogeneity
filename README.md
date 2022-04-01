@@ -2,6 +2,7 @@
 
 % purpose   : correct artifacts due to magnetic field instability and inhomogeneity   
 % input     : two complex MRI images acquired with inverted read gradient
+
 % output    : corrected image, intermediate corrected images, phase correction and estimated magnetic field inhomogeneity
 
 % reference : Rodriguez GG et al. MRI, 87 (2022) 157–168, https://doi.org/10.1016/j.mri.2022.01.008    
