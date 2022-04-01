@@ -10,14 +10,15 @@
 % MATLAB version: R2021a
 
 The method allows 3 different modalities:
+
 0) Instability correction.
 1) Inhomogeneity correction.
 2) Full correction (instability and inhomogeneity).
 
 
-0) Requieres as input a complex MRI image.
-1) Requieres as input 2 MRI images acquired with inverted read gradients (the data for this case can be complex or real).
-2) Requieres as input 2 complex MRI images acquired with inverted read gradients.
+- The modality "0" requieres as input a complex MRI image.
+- The modality "1" requieres as input 2 MRI images acquired with inverted read gradients (the data for this case can be complex or real).
+- The modality "2" requieres as input 2 complex MRI images acquired with inverted read gradients.
 
 
 - run_full_correction_main.m
