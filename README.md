@@ -21,7 +21,7 @@ The method allows 3 different modalities:
 - The modality "2" requieres as input 2 complex MRI images acquired with inverted read gradients.
 
 
-- run_full_correction_main.m
+run_full_correction_main.m
 
 This script contains all the functions involved in the correction method.
 
