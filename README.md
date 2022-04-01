@@ -12,7 +12,7 @@
 
 % Contact   : gonzalo.g.rodriguez@unc.edu.ar
 
-% MATLAB version: R2021a
+% MATLAB version: R2021a (it should easily run on Matlab 2019 and 2020)
 
 The method allows 3 different modalities:
 
