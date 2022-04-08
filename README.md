@@ -10,7 +10,7 @@
 
 % Date      : 2022/03 
 
-% Afiliation: Universidad Nacional de Cordoba
+% Afiliation: LaRTE, IFEG-UNC
 
 % Contact   : gonzalo.g.rodriguez@unc.edu.ar
 
