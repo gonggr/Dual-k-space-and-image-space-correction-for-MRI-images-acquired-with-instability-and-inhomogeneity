@@ -36,6 +36,7 @@ For modality 0 use img_instability.mat
 For modality 1 use img_inhomogeneity_1.mat and img_inhomogeneity_2.mat
 
 For modality 2 use img_full_distorted_complex_1.mat and img_full_distorted_complex_1.mat
+
 img_ideal.mat is the ideal image
 
 %-------------------------------------------------------------------------------------
