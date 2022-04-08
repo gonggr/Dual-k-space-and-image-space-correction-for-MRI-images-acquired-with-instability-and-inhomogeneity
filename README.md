@@ -27,6 +27,17 @@ The method allows 3 different modalities:
 - The modality "1" requieres as input 2 MRI images acquired with inverted read gradients (the data for this case can be complex or real).
 - The modality "2" requieres as input 2 complex MRI images acquired with inverted read gradients.
 
+%-------------------------------------------------------------------------------
+
+DataTest_Brain
+
+For modality 0 use img_instability.mat 
+For modality 1 use img_inhomogeneity_1.mat and img_inhomogeneity_2.mat
+For modality 2 use img_full_distorted_complex_1.mat and img_full_distorted_complex_1.mat
+img_ideal.mat is the ideal image
+
+%-------------------------------------------------------------------------------------
+
 
 run_full_correction_main.m: contains all the functions involved in the correction method.
 
